@@ -6,68 +6,43 @@ anaconda_projects/
 # C extensions
 *.so
 
-# ==========================
-# Virtual Environments
-# ==========================
 venv/
 .venv/
 env/
 ENV/
 
-# ==========================
-# Environment Variables
-# ==========================
 .env
 .env.*
 
-# ==========================
 # Jupyter Notebook
-# ==========================
 .ipynb_checkpoints/
 
-# ==========================
 # VS Code
-# ==========================
 .vscode/
 
-# ==========================
 # PyCharm
-# ==========================
 .idea/
 
-# ==========================
 # Build / Distribution
-# ==========================
 build/
 dist/
 *.egg-info/
 .eggs/
 
-# ==========================
 # Test / Coverage
-# ==========================
 .pytest_cache/
 .coverage
 .coverage.*
 htmlcov/
 
-# ==========================
 # Logs
-# ==========================
 *.log
 
-# ==========================
 # OS Files
-# ==========================
 .DS_Store
 Thumbs.db
 
-# ==========================
-# Generated Data (Optional)
-# Uncomment if your project generates these
-# ==========================
+# Generated Data
  outputs/
  output/
  checkpoints/
-# models/
-# cache/
