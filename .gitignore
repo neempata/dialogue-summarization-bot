@@ -36,10 +36,9 @@ htmlcov/
 *.log
 
 # OS Files
-.DS
+.DS_Store
 Thumbs.db
 
 # Generated Data
  outputs/
- output/
- checkpoints/
+
