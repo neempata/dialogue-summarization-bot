@@ -36,6 +36,7 @@ htmlcov/
 *.log
 
 # OS Files
+.DS
 Thumbs.db
 
 # Generated Data
