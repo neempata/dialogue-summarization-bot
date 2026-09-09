@@ -2,10 +2,6 @@
 
 This project explores dialogue summarization using a Hugging Face `transformers` model inside a Jupyter notebook.
 
-## Project Contents
-
-- `DialogueSummarization.ipynb` — notebook demonstrating dataset loading, 
-
 ## What it does
 
 The notebook:
