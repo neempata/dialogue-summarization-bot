@@ -4,7 +4,7 @@ This project explores dialogue summarization using a Hugging Face `transformers`
 
 ## Project Contents
 
-- `DialogueSummarization.ipynb` — notebook demonstrating dataset loading, model inference, prompt engineering, and example summaries.
+- `DialogueSummarization.ipynb` — notebook demonstrating dataset loading, model inference, prompt engineering, and
 
 ## What it does
 
